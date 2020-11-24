@@ -1,0 +1,8 @@
+(fp_lib_table
+  (lib (name keyboard_parts)(type KiCad)(uri "B:/Keebs/keeb comps/keyboard_parts.pretty-master")(options "")(descr ""))
+  (lib (name keebs)(type KiCad)(uri "B:/Keebs/keeb comps/keebs.pretty-master")(options "")(descr ""))
+  (lib (name Type-C)(type KiCad)(uri "B:/Keebs/keeb comps/Type-C.pretty-master")(options "")(descr ""))
+  (lib (name Keebio-Parts)(type KiCad)(uri "B:/Keebs/keeb comps/Keebio-Parts.pretty-master")(options "")(descr ""))
+  (lib (name Rotary_Encoder)(type KiCad)(uri "B:/Keebs/keeb comps/Rotary_Encoder.pretty-master")(options "")(descr ""))
+  (lib (name MX_Only)(type KiCad)(uri "B:/Keebs/keeb comps/MX_Alps_Hybrid-master/MX_Only.pretty")(options "")(descr ""))
+)
